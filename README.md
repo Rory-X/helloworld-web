@@ -21,3 +21,4 @@ npm run preview
 - 构建命令：`npm run build`
 - 输出目录：`dist`
 - 环境变量：无
+Force redeploy Fri May 15 18:25:05 CST 2026
